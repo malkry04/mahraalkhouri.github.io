@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-What's Inside My Tote Bag?
-======
+**What's Inside My Bag?**
 ![wimb.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/wimb.jpg)
 - a laptop
 - a bunch of class readings
@@ -20,15 +19,12 @@ What's Inside My Tote Bag?
 - my student ID
 - car keys
 - a water bottle
-- honorable mention to my phone, which I have ironically forgotten to include yet is always there with me (of course!)
+- honorable mention to my phone, which I have ironically forgotten to include yet is always there with me (of course!)  
 
----
 **BBC Connections, Ep 9 'Countdown'**
-![Countdown.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/Countdown.jpg)
+![Countdown.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/Countdown.jpg)  
 
----
-Pessimist’s Archive: The Telegraph
-======
+**Pessimist’s Archive: The Telegraph**
 News & the Telegraph:
 ![News1.png](https://malkry04.github.io/mahraalkhouri.github.io///images/News1.png)
 - This piece of news portrays the telegraph in a positive light, as it states how much of an impact the telegraph had in 1861 over the existing mail system and how it brought out significant advancement by offering more certainty and regularity in communication.
