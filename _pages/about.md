@@ -10,6 +10,7 @@ What's Inside My Tote Bag?
 ======
 ![wimb.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/wimb.jpg)
 - a laptop
+---
 - a bunch of class readings
 - a pen and a pencil
 - a pouch that usually carries within it my card
