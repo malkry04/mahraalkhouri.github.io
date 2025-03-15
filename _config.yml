@@ -22,7 +22,7 @@ repository               : "mahraalkhouri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mahra AlKhouri"
   pronouns         : # example: "she/her"  
   bio              : "A Manus et Machina Portfolio"
