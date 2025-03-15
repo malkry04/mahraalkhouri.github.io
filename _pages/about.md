@@ -21,9 +21,9 @@ What's Inside My Tote Bag?
 - car keys
 - a water bottle
 - honorable mention to my phone, which I have ironically forgotten to include yet it is always there with me (of course!)  
-
-BBC Connections, Ep 9 "Countdown"
-======
+---
+**BBC Connections, Ep 9 "Countdown"**
+---
 ![Countdown.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/Countdown.jpg)
 
 ---
