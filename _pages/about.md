@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## What's Inside My Bag?
+What's Inside My Bag?
+======
 ![wimb.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/wimb.jpg)
 - a laptop
 - a bunch of class readings
@@ -21,11 +22,13 @@ redirect_from:
 - a water bottle
 - honorable mention to my phone, which I have ironically forgotten to include yet is always there with me (of course!)  
 
-**BBC Connections, Ep 9 'Countdown'**
+BBC Connections, Ep 9 'Countdown'
+======
 ![Countdown.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/Countdown.jpg)  
 
-**Pessimist’s Archive: The Telegraph**
-News & the Telegraph:
+Pessimist’s Archive: The Telegraph
+======
+**News & the Telegraph:**
 ![News1.png](https://malkry04.github.io/mahraalkhouri.github.io///images/News1.png)
 - This piece of news portrays the telegraph in a positive light, as it states how much of an impact the telegraph had in 1861 over the existing mail system and how it brought out significant advancement by offering more certainty and regularity in communication.
 ---
@@ -33,13 +36,11 @@ News & the Telegraph:
 ![News3.png](https://malkry04.github.io/mahraalkhouri.github.io///images/News3.png)
 - These two news pieces discuss romantic relationships formed over telegraph and telephone lines. However, while the first news piece notes a bit of controversy about the mingling of personal affairs with public business at telegraph offices--the second text details the "telephone romance" that led to an engagement and an upcoming wedding. What could be gained when looking at both news pieces is that both illustrate the telegraph and telephone as tools not only for business and communication but also as new mediums for personal connections and romantic relationships in their early days.
 ---
-Brief Historical Timeline of the Telegraph:  
-======
+**Brief Historical Timeline of the Telegraph:**  
 ![Timeline.png](https://malkry04.github.io/mahraalkhouri.github.io///images/Timeline.png)
 
 ---
-How Was the Telegraph Double-edged?  
-======
+**How Was the Telegraph Double-edged?**  
 Here are the negative impacts of the telegraph:  
 1) Information Overload  
 - Concerns about superficiality  
