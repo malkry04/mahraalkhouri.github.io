@@ -20,4 +20,4 @@ What's Inside My Tote Bag?
 - my student ID
 - car keys
 - a water bottle
-***note: I forgot to add my phone, which is always with me (of course!) <br />
+- honorable mention to my phone, which I have ironically forgotten to include yet it is always there with me (of course!)
