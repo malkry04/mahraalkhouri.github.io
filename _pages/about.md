@@ -9,4 +9,4 @@ redirect_from:
 What's Inside My Tote Bag?
 ======
 Hello!
-![chart.png](https://malkry04.github.io/mahraalkhouri.github.io///Images/chart.png)
+![chart.png](https://malkry04.github.io/mahraalkhouri.github.io///images/chart.png)
