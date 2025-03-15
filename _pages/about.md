@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**What's Inside My Bag?**
+## What's Inside My Bag?
 ![wimb.jpg](https://malkry04.github.io/mahraalkhouri.github.io///images/wimb.jpg)
 - a laptop
 - a bunch of class readings
