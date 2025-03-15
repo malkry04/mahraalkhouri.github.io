@@ -13,7 +13,7 @@ title                    : "Mahra's Portfolio"
 title_separator          : "-"
 name                     : &name "Mahra AlKhouri"
 description              : &description "A Manus et Machina Portfolio"
-url                      : https://malkry04.github.io/academicpages.github.io/
+url                      : https://malkry04.github.io/mahraalkhouri.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/portfolio"
 repository               : "mahraalkhouri.github.io"
 
