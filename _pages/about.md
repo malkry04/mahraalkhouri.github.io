@@ -72,17 +72,25 @@ As for the positive impacts of the telegraph, they are the following:
 Designers: Issey Miyake
 ======
 ![IsseyMiyake1.png](https://malkry04.github.io/mahraalkhouri.github.io///images/IsseyMiyake1.png)
+
 ![IsseyMiyake2.png](https://malkry04.github.io/mahraalkhouri.github.io///images/IsseyMiyake2.png)
+
 ![IsseyMiyake3.png](https://malkry04.github.io/mahraalkhouri.github.io///images/IsseyMiyake3.png)
+
 ![IsseyMiyake4.png](https://malkry04.github.io/mahraalkhouri.github.io///images/IsseyMiyake4.png)
+
 ![IsseyMiyake5.png](https://malkry04.github.io/mahraalkhouri.github.io///images/IsseyMiyake5.png)
+
 ![IsseyMiyake6.png](https://malkry04.github.io/mahraalkhouri.github.io///images/IsseyMiyake6.png)
 
 Architects: Norman Foster
 ======
 ![NormanFoster1.png](https://malkry04.github.io/mahraalkhouri.github.io///images/NormanFoster1.png)
+
 ![NormanFoster2.png](https://malkry04.github.io/mahraalkhouri.github.io///images/NormanFoster2.png)
+
 ![NormanFoster3.png](https://malkry04.github.io/mahraalkhouri.github.io///images/NormanFoster3.png)
+
 ![NormanFoster4.png](https://malkry04.github.io/mahraalkhouri.github.io///images/NormanFoster4.png)
 
 
